@@ -1,0 +1,14 @@
+{
+  "name": "myfirstbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "Zodious",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.4.0-dev.1640304358.1316fd4"
+  }
+}
